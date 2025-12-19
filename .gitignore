@@ -1,0 +1,95 @@
+# =========================
+# Java build / IDE files
+# =========================
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# =========================
+# Maven / Gradle
+# =========================
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+.gradle/
+build/
+
+# =========================
+# Eclipse
+# =========================
+.metadata/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+bin/
+*.launch
+*.loadpath
+
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+*.iws
+out/
+
+# =========================
+# NetBeans
+# =========================
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Logs and temp files
+# =========================
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+.DS_Store
+
+# =========================
+# Java Web / Servlet specific
+# =========================
+*.war
+*.ear
+*.class
+webapp/WEB-INF/classes/
+webapp/WEB-INF/lib/
