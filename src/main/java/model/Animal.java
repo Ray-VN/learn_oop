@@ -1,7 +1,7 @@
 package model;
 
 public class Animal {
-    protected String makeSound(){
+    public String makeSound(){
         return "Some sound";
     }
 }
