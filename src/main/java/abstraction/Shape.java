@@ -1,5 +1,5 @@
 package abstraction;
 
 public abstract class Shape {
-    public abstract void sound();
+    public abstract void calculateArea(double scale);
 }
