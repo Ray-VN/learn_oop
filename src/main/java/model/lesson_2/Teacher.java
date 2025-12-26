@@ -1,4 +1,4 @@
-package model;
+package model.lesson_2;
 
 public class Teacher extends Person {
     private String subject;

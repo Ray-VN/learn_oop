@@ -1,4 +1,4 @@
-package model;
+package model.lesson_1;
 
 public class Animal {
     public String makeSound(){
